@@ -7,3 +7,9 @@ SSM : 씀 ( Student's School Market )
 # 팀원
  - 한민석
  - ...
+
+# 사용 언어
+ - Kotlin
+ - ...
+
+# 구상도
